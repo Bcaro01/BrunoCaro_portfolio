@@ -1,1 +1,1 @@
-
+En Esta carpeta, se encuentran algunos de los proyectos en los que he trabajado en cuanto a modelos de Machine Learning. Principalmente son modelos que desarrollé en cursos y tiempos libres con set de datos publicos.
